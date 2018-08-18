@@ -1221,7 +1221,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-1--light {
-    color: #FFFFFF;
+    color: black;
 }
 
 .display-2 {
@@ -1233,7 +1233,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-2--light {
-    color: #FFFFFF;
+    color: black;
 }
 
 .subhead + .display-2 {
@@ -1795,7 +1795,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h3 {
     font-family: "montserrat-medium", sans-serif;
     font-size: 1.6rem;
-    color: rgba(255, 255, 255, 0.5);
+    /*color: rgba(255, 255, 255, 0.5);*/color:black;
     text-transform: uppercase;
     letter-spacing: .3rem;
     position: relative;
@@ -1809,7 +1809,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 6.3rem;
     line-height: 1.333;
     margin-top: 0;
-    color: #FFFFFF;
+    /*color: #FFFFFF;*/ color: black;
 }
 
 .home-content__main {
@@ -1825,7 +1825,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__buttons .btn {
     width: 215px;
     border-color: #FFFFFF;
-    color: #FFFFFF;
+    color: black;
     margin: 1.5rem 1.5rem 0 0;
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1853,7 +1853,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #FFFFFF;
+    color: black;
     position: relative;
     display: inline-block;
     line-height: 3rem;
@@ -2243,7 +2243,7 @@ html.no-csstransitions .home-content__main {
     font-family: "montserrat-bold", sans-serif;
     font-size: 8.4rem;
     line-height: 1;
-    color: #FFFFFF;
+    color: black;
     position: relative;
     overflow: hidden;
     text-overflow: ellipsis;
