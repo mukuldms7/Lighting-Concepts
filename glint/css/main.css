@@ -75,7 +75,7 @@ html, body {
 
 body {
    /* background: #111111;*/ background:#fff;
-    font-family: "lora-regular", serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.7rem;
     font-style: normal;
     font-weight: normal;
@@ -111,7 +111,7 @@ a:hover, a:active {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, 
 .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "montserrat-medium", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     color: #000000;
     font-style: normal;
     font-weight: normal;
@@ -186,7 +186,7 @@ p img {
 }
 
 p.lead {
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 2rem;
     font-weight: 300;
     line-height: 1.8;
@@ -208,11 +208,11 @@ em, i, strong, b {
 }
 
 em, i {
-    font-family: "lora-italic", serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
 }
 
 strong, b {
-    font-family: "lora-bold", serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
 }
 
 small {
@@ -232,14 +232,14 @@ blockquote:before {
     line-height: 0px;
     margin: 0;
     color: rgba(0, 0, 0, 0.25);
-    font-family: arial, sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     position: absolute;
     top: 3.6rem;
     left: 0;
 }
 
 blockquote p {
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     padding: 0;
     font-size: 2.1rem;
     line-height: 1.857;
@@ -248,7 +248,7 @@ blockquote p {
 
 blockquote cite {
     display: block;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.4rem;
     font-style: normal;
     line-height: 1.5;
@@ -264,7 +264,7 @@ blockquote cite a, blockquote cite a:visited {
 }
 
 abbr {
-    font-family: "lora-bold", serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-variant: small-caps;
     text-transform: lowercase;
     letter-spacing: .05rem;
@@ -273,7 +273,7 @@ abbr {
 
 var, kbd, samp, code, pre {
     font-family: Consolas, "Andale Mono", Courier, "Courier New", monospace;
-}
+}"Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif
 
 pre {
     padding: 2.4rem 3rem 3rem;
@@ -425,7 +425,7 @@ table {
     border-width: 0;
     width: 100%;
     max-width: 100%;
-    font-family: "lora-regular", serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
 }
 
 th, td {
@@ -436,7 +436,7 @@ th, td {
 
 th {
     color: #000000;
-    font-family: "montserrat-bold", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
 }
 
 td {
@@ -622,7 +622,7 @@ select {
     border: 0;
     outline: none;
     color: #333333;
-    font-family: "montserrat-light", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.4rem;
     line-height: 3rem;
     max-width: 100%;
@@ -706,7 +706,7 @@ select:focus {
 }
 
 label, legend {
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.4rem;
     font-weight: bold;
     margin-bottom: .9rem;
@@ -722,7 +722,7 @@ input[type="checkbox"], input[type="radio"] {
 label > .label-text {
     display: inline-block;
     margin-left: 1rem;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-weight: normal;
     line-height: inherit;
 }
@@ -788,7 +788,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
     display: inline-block;
-    font-family: "montserrat-medium", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
@@ -907,7 +907,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: relative;
     margin-bottom: 3rem;
     border-radius: 3px;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.5rem;
     line-height: 1.6;
 }
@@ -956,7 +956,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin: 0;
     padding: 1.5rem .6rem 0 0;
     font-size: 8.4rem;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-weight: bold;
     line-height: 6rem;
     text-indent: 0;
@@ -1035,7 +1035,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     height: 1em;
     position: absolute;
     font-size: 10rem;
-    font-family: Arial, Sans-Serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     color: rgba(0, 0, 0, 0.25);
 }
 
@@ -1094,7 +1094,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .stats-tabs li a {
     display: inline-block;
     font-size: 2.5rem;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-weight: bold;
     border: none;
     color: #000000;
@@ -1108,7 +1108,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     margin: .6rem 0 0 0;
     font-size: 1.4rem;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     color: #828282;
 }
 
@@ -1134,7 +1134,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     left: 0;
     top: -3rem;
-    font-family: "montserrat-bold", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     color: #000000;
     text-transform: uppercase;
     letter-spacing: .2rem;
@@ -1153,7 +1153,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     right: 0;
     top: -3.6rem;
     display: block;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     color: #FFFFFF;
     font-size: 1.1rem;
     line-height: 1;
@@ -1213,8 +1213,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## display headings
  * ------------------------------------------------------------------- */
 .display-1 {
-    font-family: "montserrat-medium", sans-serif;
-    font-size: 7.8rem;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
+    font-size: 5.8rem;
     line-height: 1.25;
     color: #000000;
     margin-top: 0;
@@ -1225,7 +1225,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-2 {
-    font-family: "montserrat-medium", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 5.2rem;
     line-height: 1.255;
     color: #757575;
@@ -1241,7 +1241,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .subhead {
-    font-family: "montserrat-bold", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.7rem;
     line-height: 1.333;
     text-transform: uppercase;
@@ -1473,7 +1473,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .header-nav {
     background: #0C0C0C;
     color: rgba(255, 255, 255, 0.25);
-    font-family: "montserrat-light", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.3rem;
     line-height: 1.846;
     padding: 3.6rem 3rem 3.6rem 3.6rem;
@@ -1528,7 +1528,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header-nav__list {
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.8rem;
     margin: 3.6rem 0 3rem 0;
     padding: 0 0 1.8rem 0;
@@ -1647,7 +1647,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     height: 42px;
     width: 42px;
     line-height: 42px;
-    font-family: "montserrat-medium", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
@@ -1794,7 +1794,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content h3 {
-    font-family: "montserrat-medium", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.6rem;
     /*color: rgba(255, 255, 255, 0.5);*/color:black;
     text-transform: uppercase;
@@ -1806,7 +1806,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content h1 {
-    font-family: "montserrat-medium", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 6.3rem;
     line-height: 1.333;
     margin-top: 0;
@@ -1850,7 +1850,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a {
-    font-family: "montserrat-semibold", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
@@ -1909,7 +1909,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## home social 
  * ------------------------------------------------------------------- */
 .home-social {
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     list-style: none;
     margin: 0;
     position: absolute;
@@ -2213,7 +2213,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-about {
     padding-top: 16.2rem;
-    padding-bottom: 9rem;
+    padding-bottom: 8rem;
     background-color: #39b54a;
     color: #010507;
     position: relative;
@@ -2224,7 +2224,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .about-desc {
-    font-size: 2.4rem;
+    font-size: 1.8rem;
     line-height: 1.75;
     text-align: center;
     max-width: 1024px;
@@ -2252,10 +2252,10 @@ html.no-csstransitions .home-content__main {
 }
 
 .stats__count {
-    font-family: "montserrat-bold", sans-serif;
-    font-size: 8.4rem;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
+    font-size: 4.8rem;
     line-height: 1;
-    color: black;
+    color: #757575;
     position: relative;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -2263,7 +2263,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .stats h5 {
-    font-family: "montserrat-semibold", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     margin-top: 1.8rem;
     color: #000000;
     font-size: 1.8rem;
@@ -2383,7 +2383,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-services {
     padding-top: 8.2rem;
-    padding-bottom: 13.2rem;
+    padding-bottom: 10.2rem;
     background-color: #FFFFFF;
     color: #000000;
     position: relative;
@@ -2745,7 +2745,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-clients {
     padding-top: 8.2rem;
-    padding-bottom: 10.8rem;
+    padding-bottom: 12.8rem;
     background-color: #e6e6e6;
     color: #000000;
     position: relative;
@@ -2805,7 +2805,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .clients-testimonials .testimonials p {
-    font-family: "lora-regular", serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 3rem;
     line-height: 1.8;
     color: #555555;
@@ -2829,7 +2829,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .clients-testimonials .testimonials__name {
-    font-family: "montserrat-semibold", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     color: #000000;
 }
 
@@ -2977,7 +2977,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-contact .form-field label {
-    font-family: "montserrat-light", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1rem;
     line-height: 2.4rem;
     position: absolute;
@@ -3019,7 +3019,7 @@ html.no-csstransitions .home-content__main {
     color: rgba(255, 255, 255, 0.4);
     padding-top: 6rem;
     padding-bottom: 6rem;
-    font-family: "montserrat-light", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.5rem;
     line-height: 2;
     position: relative;
@@ -3197,7 +3197,7 @@ html.no-csstransitions .home-content__main {
 
 .submit-loader .text-loader {
     display: none;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.3rem;
     font-weight: bold;
     line-height: 1.846;
@@ -3346,7 +3346,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 footer {
     padding: 9rem 0 6rem;
-    font-family: "montserrat-light", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 15px;
     line-height: 2;
     text-align: center;
@@ -3362,7 +3362,8 @@ footer h4 {
 }
 
 footer a {
-    color: #FFFFFF;
+    color: #000000;
+    font-weight: bolder;
 }
 
 footer a:hover, footer a:focus, footer a:active {
@@ -3465,7 +3466,7 @@ footer .row {
 
 .footer-subscribe #mc-form label {
     color: #FFFFFF;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: "Avant Garde", "Avantgarde", "Century Gothic", "CenturyGothic", "AppleGothic", sans-serif;
     font-size: 1.3rem;
     padding: 0 2rem;
 }
@@ -3515,12 +3516,12 @@ footer .row {
     text-decoration: none;
     border: 0 none;
     display: block;
-    height: 60px;
-    width: 60px;
-    line-height: 60px;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
     text-align: center;
     background: #8ec441;
-    color: rgba(255, 255, 255, 0.5);
+    color: #ffffff; /*rgba(255, 255, 255, 0.5);*/
     text-align: center;
     text-transform: uppercase;
     -webkit-transition: all 0.3s ease-in-out;
