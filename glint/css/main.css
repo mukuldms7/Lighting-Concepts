@@ -1221,19 +1221,19 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-1--light {
-    color: black;
+    color: #757575;
 }
 
 .display-2 {
     font-family: "montserrat-medium", sans-serif;
     font-size: 5.2rem;
     line-height: 1.255;
-    color: #000000;
+    color: #757575;
     margin-top: 0;
 }
 
 .display-2--light {
-    color: black;
+    color: #757575;
 }
 
 .subhead + .display-2 {
@@ -1311,7 +1311,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .section-header.has-bottom-sep {
-    padding-bottom: 2.1rem;
+    /*padding-bottom: 1.1rem;*/
     position: relative;
 }
 
@@ -1814,18 +1814,18 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__main {
-    padding-top: 24rem;
+    padding-top: 20rem;
     position: relative;
 }
 
 .home-content__buttons {
-    padding-top: 6rem;
+    padding-top: 3rem;
     text-align: left;
 }
 
 .home-content__buttons .btn {
     width: 215px;
-    border-color: #FFFFFF;
+    border-color: #000000;
     color: black;
     margin: 1.5rem 1.5rem 0 0;
     letter-spacing: .25rem;
@@ -2371,10 +2371,10 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-    padding-top: 16.2rem;
+    padding-top: 8.2rem;
     padding-bottom: 13.2rem;
     background-color: #FFFFFF;
-    color: #757575;
+    color: #000000;
     position: relative;
 }
 
@@ -2733,10 +2733,10 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-clients {
-    padding-top: 11.2rem;
-    padding-bottom: 16.8rem;
+    padding-top: 8.2rem;
+    padding-bottom: 10.8rem;
     background-color: #e6e6e6;
-    color: #757575;
+    color: #000000;
     position: relative;
 }
 
